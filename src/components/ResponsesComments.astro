@@ -1,0 +1,44 @@
+---
+console.log(Astro);
+const disqus_config = function (this: any) {
+  this.page.url = Astro.url.href;
+  this.page.identifier = Astro.url.pathname;
+};
+console.log(disqus_config);
+---
+
+<section class="responses-and-comments">
+  <h2>Responses & Comments</h2>
+  <div id="disqus_thread"></div>
+  <script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+
+    (function () {
+      // DON'T EDIT BELOW THIS LINE
+      var d = document,
+        s = d.createElement("script");
+      s.src = "https://wizards666.disqus.com/embed.js";
+      s.setAttribute("data-timestamp", +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+</section>
+<style>
+  .responses-and-comments {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .responses-and-comments h2 {
+    font-size: 20px;
+    margin-bottom: 2rem;
+  }
+</style>
