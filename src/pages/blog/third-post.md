@@ -1,18 +1,27 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Third post"
+title: "Why Creating a Life Statement Has Helped Me So Much"
 description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 15 2022"
-heroImage: "/placeholder-hero.jpg"
+pubDate: "May 7, 2022"
 published: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+_Found this interesting note in my archives:_
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+When our daughter, now 1-year-old, was born, I endured rough patches due to some forced self-reflection. I've thought most of my adult life that I'm a family-centric and "family first" person. Still, through the new responsibilities of having a baby, I noticed that where I put the most effort and hours were work and my leisure activities (playing guitar, reading, exercising, playing video games, playing chess, and playing basketball IRL).
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Having a baby accentuated this FACT because of the limitation of hours this introduced in my life. Before our baby girl, I had time to waste; now, I had to choose. And those decisions, as hard as they were, are what fucked me up. So am I focusing my relationship with my wife now, via whatever it may be, or will I knock off some chapters of some random whatever? These decisions validate or invalidate my original idea of "I'm a family man ."If I have 3 "free hours" and I don't spend a single one with my wife and teenage son by the end of the day, am I a family man as I think I am? Baby girl made this evident, and thus came my self-esteem issues.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+But not all was lost. I'm a good man, I thought to myself. I have to put in the hours. But who am I? If this one thing is not as I thought it was, what other things are not as I think they are? Self-reflection ensued.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+I couldn't figure it out, and I spiraled and struggled. At work, I had a very demanding boss who verbally belittled everybody adjacent to the product we were creating. This behavior deepened my self-doubt, this "holy fuck; I don't know if I'm even good at this," and so forth and deeper down the rabbit hole.
+
+### Ultimately, what helped me?
+
+I created a "Mission Statement" for my life, a document where I explained to an audience who I am. This document outlines your life morals, values, paradigms, and ideals.
+
+### How the hell did that help you?
+
+While creating this document, I could self-reflect on my actions and, whenever appropriate, identify values and paradigms that I wanted but wasn't implementing via action. And this created further action. For example, if I want to be a family man, which tactics do I have to commit to, how many hours, and what activities? The same goes for a statement such as "I am love for those around me. Especially my wife". How are my actions supporting this statement?
+
+This document is not meant to be shared. Instead, it's a document for self-reflection and accountability for yourself. For clarification. For goal setting. So that I can stop lying or manipulating myself and become active; action is, thoughts aren't.
