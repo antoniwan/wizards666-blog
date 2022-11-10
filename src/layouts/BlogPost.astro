@@ -30,6 +30,9 @@ const {
         border-top: 1px solid #ddd;
         margin: 1rem 0;
       }
+      small {
+        font-style: italic;
+      }
     </style>
   </head>
 
@@ -49,14 +52,16 @@ const {
           )
         }
         <h1 class="title">{title}</h1>
-        {pubDate && <time>{pubDate}</time>}
-        {
-          updatedDate && (
-            <div>
-              Last updated on <time>{updatedDate}</time>
-            </div>
-          )
-        }
+        <div>
+          {pubDate && <time>Published on {pubDate}</time>}
+          {
+            updatedDate && (
+              <small>
+                (Last updated on <time>{updatedDate}</time>)
+              </small>
+            )
+          }
+        </div>
         <hr />
         <slot />
       </article>
