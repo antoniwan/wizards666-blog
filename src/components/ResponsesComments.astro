@@ -1,16 +1,8 @@
----
-const disqus_config = function (this: any) {
-  this.page.url = Astro.url.href;
-  this.page.identifier = Astro.url.pathname;
-};
----
-
 <section class="responses-and-comments">
   <h2>Responses & Comments 👇🏼</h2>
   <div id="disqus_thread"></div>
-  <script>
+  <script type="text/partytown">
     (function () {
-      // DON'T EDIT BELOW THIS LINE
       var d = document,
         s = d.createElement("script");
       s.src = "https://wizards666.disqus.com/embed.js";
